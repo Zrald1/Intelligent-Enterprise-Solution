@@ -12,6 +12,7 @@
     "preview": "vite preview",
     "tauri:dev": "tauri dev",
     "tauri:build": "tauri build",
+    "tauri": "tauri",
     "start:llama": "cd llama.cpp-src/build/bin/Release && llama-server.exe --model ../../../../models/nomic-embed-text-v1.5.Q4_K_M.gguf --port 8001 --embeddings",
     "start:lobstertrap": "cd lobstertrap-main && lobstertrap.exe serve --backend http://localhost:8001",
     "start:local-ai": "concurrently \"npm run start:llama\" \"npm run start:lobstertrap\"",
