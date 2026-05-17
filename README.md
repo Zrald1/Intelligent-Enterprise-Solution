@@ -2,7 +2,6 @@
 ## High-Performance AI Orchestration with Gemini & LobsterTrap Security
 
 CATOG is an advanced, AI-powered enterprise automation platform built with **Tauri**, **React**, and **TypeScript**. It is designed to act as an intelligent enterprise knowledge assistant, merging world-class reasoning with industrial-grade security.
-
 ---
 
 ## 🧠 Core Intelligence: Google Gemini Engine
